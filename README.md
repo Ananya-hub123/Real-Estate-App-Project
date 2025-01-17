@@ -23,6 +23,8 @@ Backend: Node.js, Express, MongoDB
 Version Control: Git, GitHub
 
 
+![Image](https://github.com/user-attachments/assets/d327f5f5-ac49-4989-8447-da25e95cbd45)
+
 ![Image](https://github.com/user-attachments/assets/6ef82c6c-0faf-4a33-8b30-c25b030de41b)
 
 ![Image](https://github.com/user-attachments/assets/91c35caa-af51-43fa-9b33-01685466e46e)
