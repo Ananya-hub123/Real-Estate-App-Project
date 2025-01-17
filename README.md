@@ -11,7 +11,7 @@ Filters: Filter properties based on price, location, type, and other criteria.
 
 Search Functionality: Search properties by name, location, or other attributes.
 
-User Authentication: (if applicable) Users can log in and view saved properties.
+User Authentication: Users can log in and view saved properties.
 
 
 Technologies Used:
