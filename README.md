@@ -16,7 +16,7 @@ User Authentication: Users can log in and view saved properties.
 
 Technologies Used:
 
-Frontend: React, CSS
+Frontend: React.js 
 
 Backend: Node.js, Express, MongoDB
 
